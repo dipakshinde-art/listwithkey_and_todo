@@ -1,4 +1,2 @@
 
-
-  expect(linkElement).toBeInTheDocument();
 });
